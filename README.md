@@ -1,58 +1,60 @@
-# Amaara Ceylon – Client Website 🌿
+# 🌿 Amaara Ceylon
 
-🔗 **Live site:** https://amaaraceylon.com/
+Amaara Ceylon is a premium e-commerce website dedicated to delivering authentic **Ceylon tea** sourced directly from Sri Lanka’s high-altitude tea estates. The platform combines tradition, wellness, and modern web technology to offer a seamless online shopping experience for tea lovers worldwide.
+
+🌐 Live Website: https://amaaraceylon.com/
+
+---
 
 ## 📌 Project Overview
-Amaara Ceylon is a professional **client website built on WordPress** showcasing premium Ceylon tea products and promoting the cultural significance of tea from Sri Lanka.
 
-This project was developed as a **freelance client delivery**, covering requirements gathering, design, theme customization, and deployment.
+Amaara Ceylon provides an elegant and user-friendly platform for exploring and purchasing high-quality Sri Lankan tea products. The website focuses on authenticity, freshness, and customer trust by promoting single-estate sourcing and certified Ceylon tea.
 
----
-
-## 🎯 Objectives
-- Establish a **brand presence online** for Amaara Ceylon
-- Present a **variety of specialty teas** with visual focus
-- Ensure **responsive design and user-friendly navigation**
-- Enable easy content updates through WordPress
+The system is designed to support both **local and international customers**, with secure checkout, product management, and informative content that highlights the cultural and health benefits of tea.
 
 ---
 
-## 🛠️ Tech Stack
-- **CMS:** WordPress
-- **Frontend:** HTML, CSS, JavaScript (via WP themes/plugins)
-- **Theme:** Custom/Modified WordPress theme
-- **Plugins:** SEO, performance, shop/cart enhancements
-- **Hosting & Deployment:** cPanel/Linux shared hosting
+## ✨ Key Features
+
+- 🛒 Online tea store with secure checkout  
+- 🍃 Premium Ceylon tea collections (Black, Green, Herbal blends)  
+- 🌍 International and local customer support  
+- 📦 Order tracking and customer assistance  
+- 📚 Informational content on tea benefits and usage  
+- 💳 Multi-currency support (LKR / USD)  
+- 📱 Responsive design for all devices  
 
 ---
 
-## 🚀 Key Contributions
-- Built the full **WordPress site structure**
-- Customized the theme to match the client’s brand identity
-- Created high-impact UX for browsing tea products
-- Tested and deployed to production with SEO considerations
-- Documented content updates for client handoff
+## 🧑‍💼 Target Audience
+
+- Tea enthusiasts and wellness consumers  
+- International customers seeking authentic Ceylon tea  
+- Local customers looking for premium Sri Lankan products  
+- Businesses and gift buyers  
 
 ---
 
-## 📸 Screenshots
-Include:
-- Homepage
-- About page
-- Product/shop section
+## 🛠️ Technologies Used
 
-_(Add images from the `/screenshots` folder)_
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js (or relevant backend if applicable)  
+- **Database:** Firebase / Other (if applicable)  
+- **Hosting:** Cloud-based deployment  
+- **Version Control:** Git & GitHub  
 
----
-
-## 🧠 What I Learned
-- Client requirement translation to production features
-- WordPress theme customization and plugin selection
-- Responsive design for ecommerce style sites
-- Real-world deployment and SEO basics
+> *(Update this section if you want exact technologies listed.)*
 
 ---
 
-## 👤 Author
-**Dushan Liyanage**  
-Freelance Web Developer | Data Science & Business Analytics Undergraduate
+## 🚀 Purpose of the Project
+
+- Promote authentic Sri Lankan tea globally  
+- Provide a modern digital platform for tea commerce  
+- Demonstrate real-world e-commerce web development  
+- Support business growth through online sales  
+
+---
+
+## 📂 Project Structure (Simplified)
+
